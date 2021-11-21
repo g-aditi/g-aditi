@@ -2,9 +2,15 @@
 ## :curly_loop: Aditi 101
 - :calendar: 20 years old
 - :notebook_with_decorative_cover: Pre-final year computer science and engineering student
-- :chart_with_upwards_trend: Friendly neighbourhood aspiring data scientist
+- :chart_with_upwards_trend: Your friendly neighbourhood aspiring data scientist!
 - :clock4: Often found doing
-![]()
+![](https://github.com/g-aditi/g-aditi/blob/main/assets/hobbies-banner.gif)
+
+## :curly_loop: Skills
+- :nerd_face: Knows quite a bit about natural language processing, machine learning classifiers, and data visualization
+- :cloud: Worked on Google Cloud Platform
+- 🌱 Currently learning Tableau and Microsoft Azure
+- 
 <!--
 **g-aditi/g-aditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
