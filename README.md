@@ -1,6 +1,10 @@
 ![Hi, I'm Aditi!](https://github.com/g-aditi/g-aditi/blob/main/assets/name-banner.png)
-##  👩🏽 Who Am I?
-
+## :curly_loop: Aditi 101
+- :calendar: 20 years old
+- :notebook_with_decorative_cover: Pre-final year computer science and engineering student
+- :chart_with_upwards_trend: Friendly neighbourhood aspiring data scientist
+- :clock4: Often found doing
+![]()
 <!--
 **g-aditi/g-aditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
