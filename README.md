@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hi, I'm Aditi!](https://github.com/g-aditi/g-aditi/blob/main/assets/name-banner.png)
+##  👩🏽 Who Am I?
 
 <!--
 **g-aditi/g-aditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
