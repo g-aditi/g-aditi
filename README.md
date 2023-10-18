@@ -1,7 +1,7 @@
 ![Hi, I'm Aditi!](https://github.com/g-aditi/g-aditi/blob/main/assets/name-banner-dark.png#gh-dark-mode-only)
 ![Hi, I'm Aditi!](https://github.com/g-aditi/g-aditi/blob/main/assets/name-banner-light.png#gh-light-mode-only)
 ## :curly_loop: Aditi 101
-- :calendar: 20 years old
+- :calendar: 22 years old
 - :mortar_board: Pre-final year computer science and engineering student
 - :chart_with_upwards_trend: Your friendly neighbourhood aspiring data scientist
 - :clock4: Often found doing
