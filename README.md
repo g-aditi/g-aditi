@@ -2,19 +2,19 @@
 ![Hi, I'm Aditi!](https://github.com/g-aditi/g-aditi/blob/main/assets/name-banner-light.png#gh-light-mode-only)
 ## :curly_loop: Aditi 101
 - :calendar: 22 years old
-- :mortar_board: Pre-final year computer science and engineering student
-- :chart_with_upwards_trend: Your friendly neighbourhood aspiring data scientist
+- :mortar_board: Grad Computer Science student
+- :chart_with_upwards_trend: Your friendly neighbourhood CS enthusiast
 - :clock4: Often found doing
 ![](https://github.com/g-aditi/g-aditi/blob/main/assets/hobbies-banner-dark.gif#gh-dark-mode-only)
 ![](https://github.com/g-aditi/g-aditi/blob/main/assets/hobbies-banner-light.gif#gh-light-mode-only)
 
 ## :curly_loop: Skills
 - :notebook_with_decorative_cover: Skilled in NLP, machine learning classifiers, and data analysis
-- :cloud: Worked on Google Cloud Platform
-- :heavy_check_mark: Codes in Python, C++, C, and a little bit of Java!
-- 🌱 Currently learning Tableau and Microsoft Azure
-- 🔰 Learning web dev from The Odin Project
-- 👯 Looking to collaborate on sentiment analysis-related work
+- 🐦: Had fun working on nature-inspired algorithms for feature selection in images
+- 🤖: Diving deep into probabilities and deep learning for NLP
+- 🎨: Text-to-Image Generators, here I come!
+- :cloud: Worked on AWS, Google Cloud Platform, and Microsoft Azure
+- :heavy_check_mark: Codes in Python, Java, C++, C
 
 ## :curly_loop: Connect With Me!
 [<img src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" alt="linkedin-logo" width="50px" height="50px" hspace="10px">](https://linkedin.com/aditi-g-)
