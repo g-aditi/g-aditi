@@ -3,7 +3,7 @@
 ## :curly_loop: Aditi 101
 - :calendar: 23 years old
 - :mortar_board: Grad Computer Science student
-- :chart_with_upwards_trend: Your friendly neighbourhood CS enthusiast
+- :chart_with_upwards_trend: Your friendly neighbourhood ML enthusiast
 - :clock4: Often found doing
 ![](https://github.com/g-aditi/g-aditi/blob/main/assets/hobbies-banner-dark.gif#gh-dark-mode-only)
 ![](https://github.com/g-aditi/g-aditi/blob/main/assets/hobbies-banner-light.gif#gh-light-mode-only)
